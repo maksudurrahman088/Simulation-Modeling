@@ -5,17 +5,14 @@
 
 
 ## Authors
- [@Md Sadman Sayed Ratul](https://www.linkedin.com/in/md-sadman-sayed-ratul/)
+ [@Md Maksudur Rahman](https://www.linkedin.com/in/maksudur-rahman088/)
  
- ID: 2215151007
+ ID: 2215151011
 
 University: University of Information Technology and Sciences (UITS)
 
 Course: Simulation & Modeling Lab
-
-## Assignment Details:
-
-### Tasks:
+### Problem:
     1. Vector Plotting:
         -> Generate two vectors with 15 random float values each.
         -> Plot both vectors on the same graph with labeled axes and a title.
@@ -29,13 +26,4 @@ Course: Simulation & Modeling Lab
         -> Perform addition, subtraction, and multiplication(dot) on them.
         -> Visualize the results using bar plots and discuss the effects.
 
-## Concepts Covered:
-- NumPy for random data generation and matrix operations
-- Matplotlib and Seaborn for data visualization
-- Understanding vector and matrix operations
-- Interpreting heatmaps and bar plots for numerical analysis
-## What I Learned:
-- How to work with NumPy arrays and perform basic mathematical operations.
-- How to use Matplotlib and Seaborn for effective data visualization.
-- The impact of mathematical operations on matrices and how to interpret their results visually.
-- The importance of clear labeling in visualizations for better data interpretation.
+
