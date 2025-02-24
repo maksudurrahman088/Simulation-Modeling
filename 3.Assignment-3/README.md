@@ -5,7 +5,7 @@
 ## 👤 Student Information  
 - **Name:** Md Maksudur Rahman  
 - **ID:** 2215151011
-- - **SEC:** A1 
+- **SEC:** A1 
 
 ---
 
