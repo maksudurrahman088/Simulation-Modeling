@@ -1,26 +1,31 @@
 📊 Assignment: Hypothesis Testing with One-Sample Kolmogorov-Smirnov (K-S) Test
+
+
 👤 Student Information
 Name: Md Maksudur Rahman
 ID: 2215151011
 Section: A1
+
 
 📝 Problem Statement
 In this assignment, I worked with the following dataset of daily temperatures (in °C) recorded over 10 days:
 
 The objective was to determine whether the data comes from a normal distribution using the One-Sample Kolmogorov-Smirnov (K-S) Test.
 
+
 📌 Tasks:
 Load and visualize the dataset.
 
-Standardize the data using mean and standard deviation.
+- Standardize the data using mean and standard deviation.
 
-Perform the K-S test against a standard normal distribution.
+- Perform the K-S test against a standard normal distribution.
 
-Output the K-S test statistic and p-value.
+- Output the K-S test statistic and p-value.
 
-Plot the empirical CDF versus the standard normal CDF.
+- Plot the empirical CDF versus the standard normal CDF.
 
-Conclude whether the null hypothesis should be rejected at a 0.05 significance level.
+- Conclude whether the null hypothesis should be rejected at a 0.05 significance level.
+
 
 🎯 What I Learned
 ✅ Performing a K-S Test:
